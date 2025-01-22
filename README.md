@@ -4,9 +4,9 @@
 Para o desafio vamos criar um vídeo utilizando IAs generativas.
 
 
-# Título do Projeto Extremamente Aesthetic ;)
+# Naturalmente com IA generativa ;)
 
-Naturalmente com IA generativa
+
 
 ## 📒 Descrição
 Criação de um vídeo com IAs generativas
